@@ -1,6 +1,6 @@
 ## Calling 3rd Party Rest Service with Ktor
 
-1. Installing the feature
+1. Installing the feature.   
    Apache is the chosen engine and here we use GSON to deserialize response to object
 
 ```kotlin
